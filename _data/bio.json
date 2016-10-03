@@ -2,7 +2,7 @@
   "basics": {
     "name": "Matt Schultz",
     "label": "Student",
-    "picture": "/matt_techfolio_profile.jpg",
+    "picture": "https://github.com/matthew-schultz/matthew-schultz.github.io/raw/master/matt_techfolio_profile.jpg",
     "email": "mschultz@hawaii.edu",
     "website": "https://matthew-schultz.github.io",
     "summary": "Hi there! I'm a part time web developer and a computer science student currently studying at the University of Hawaii in Manoa. I expect to graduate in Spring, 2018.",
