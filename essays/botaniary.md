@@ -30,10 +30,7 @@ There are a lot of plants out there on the University of Hawaii campus. However 
 
 Botaniary would be a fun, educational way for anyone with a myuh account to learn more about plants around the UH Manoa campus.
 
-Botaniary’s base functionality would be a plant field guide and map, integrating the map and underlying dataset on the landscaping section of the manoa.hawaii.edu website. http://manoa.hawaii.edu/landscaping/plantmap.php
-
-And other UH Manoa resources such as the Manoa Campus Plants page:
-http://www.botany.hawaii.edu/faculty/carr/160webindex.htm
+Botaniary’s base functionality would be a plant field guide and map, integrating the [map and underlying dataset on the landscaping section of the manoa.hawaii.edu website.](http://manoa.hawaii.edu/landscaping/plantmap.php) and other UH Manoa resources such as the [Manoa Campus Plants page](http://www.botany.hawaii.edu/faculty/carr/160webindex.htm)
 
 Each plant would be tied to a pin/location on the map. Using google’s location api, the app would be able to do basic authentication to check if a user is near a plant. After authentication is established, a user would receive points and possibly achievements for walking to plants and verifying their condition and status.
 
