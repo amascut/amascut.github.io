@@ -11,7 +11,7 @@ labels:
 ---
 Authors: Bill Mullen, Nathan Nahina, Matthew Schultz
 
-##Overview##
+##Overview
 
 
 ### The problem
@@ -24,7 +24,7 @@ What about people who are keeping track of the health of plants and if certain o
 What if one would want to know which plants are endemic to the islands?
 What if someone would like to know the Hawaiian names of these plants?
 
-## The Solution
+### The Solution
 
 Botaniary would be a fun, educational way for anyone with a myuh account to learn more about plants around the UH Manoa campus.
 Botaniary’s base functionality would be a plant field guide and map, integrating the map and underlying dataset on the landscaping section of the manoa.hawaii.edu website. http://manoa.hawaii.edu/landscaping/plantmap.php
@@ -61,8 +61,8 @@ Admin goes to landing page, logs in, redirected to admin home page, views verifi
 
 
 ## Beyond the basics
-
-Game elements (art/animation and map traversal)
-Advanced filtering (i.e. Native, medicinal uses, edible, poisonous)
-‘Smart’ automated plant identification from photos (Long term implementation. Possible graduate student project)
-“Hike” feature - a user creates a routed hike, using a map tool to string together a walking route between a series of interesting plants. A common use would be to note periodic plant stops along one of the Manoa valley trails. Other users can select a hiking route, and mark off plants as they reach them.
+<ul>
+<li>Game elements (art/animation and map traversal)</li>
+<li>Advanced filtering (i.e. Native, medicinal uses, edible, poisonous)</li>
+<li>‘Smart’ automated plant identification from photos (Long term implementation. Possible graduate student project)</li>
+<li>“Hike” feature - a user creates a routed hike, using a map tool to string together a walking route between a series of interesting plants. A common use would be to note periodic plant stops along one of the Manoa valley trails. Other users can select a hiking route, and mark off plants as they reach them.</li>
