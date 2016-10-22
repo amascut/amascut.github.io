@@ -25,6 +25,7 @@ There are a lot of plants out there on the University of Hawaii campus. However 
 <li>What if one would want to know which plants are endemic to the islands?</li>
 <li>What if someone would like to know the Hawaiian names of these plants?</li>
 </ul>
+
 ### The Solution
 
 Botaniary would be a fun, educational way for anyone with a myuh account to learn more about plants around the UH Manoa campus.
@@ -45,6 +46,7 @@ Users would also have the option to take a picture of previously unidentified pl
 
 ## Mockup page ideas
 
+<ul>
 <li>Public landing page displaying a map of the campus</li>
 <li>Login page</li>
 <li>User home page</li>
@@ -57,7 +59,7 @@ Users would also have the option to take a picture of previously unidentified pl
 <li>Admin home page</li>
 <li>Top scores page</li>
 <li>Menu page</li>
-
+</uL>
 
 ## Use case ideas
 <ul>
@@ -65,7 +67,7 @@ Users would also have the option to take a picture of previously unidentified pl
 <li>User has planted native plants near campus, to replace non-native invaders. User logs in to app, pulls up his own list of plant profiles, selects a specific plant profile from the list and walks to that plant. For newly planted plants, user may mark down when the plant has been watered, and other care details, and update the plant’s condition. User has option to make plant profile private or public (thereby inviting other users to check in on the plant).</li>
 <li>User sees plant they don’t recognize, logs in to app. User navigates to plant identification, takes photograph of plant they don’t recognize, answers questions about plant features in flowchart-based format to identify plant, is presented with a picture of the identified plant (based on the features the user identifies) alongside the picture they took.</li>
 <li>Admin goes to landing page, logs in, redirected to admin home page, views verification alerts, approves or denies user submitted entries to receive verified status in the index, navigates to index page, and adds new species and specific plants.</li>
-
+</ul>
 
 ## Beyond the basics
 <ul>
@@ -73,3 +75,4 @@ Users would also have the option to take a picture of previously unidentified pl
 <li>Advanced filtering (i.e. Native, medicinal uses, edible, poisonous)</li>
 <li>‘Smart’ automated plant identification from photos (Long term implementation. Possible graduate student project)</li>
 <li>“Hike” feature - a user creates a routed hike, using a map tool to string together a walking route between a series of interesting plants. A common use would be to note periodic plant stops along one of the Manoa valley trails. Other users can select a hiking route, and mark off plants as they reach them.</li>
+</ul>
