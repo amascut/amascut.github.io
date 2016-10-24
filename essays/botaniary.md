@@ -70,6 +70,7 @@ Users would also have the option to take a picture of previously unidentified pl
 <ul>
 <li>Game elements (art/animation and map traversal)</li>
 <li>Advanced filtering (i.e. Native, medicinal uses, edible, poisonous)</li>
-<li>‘Smart’ automated plant identification from photos (Long term implementation. Possible graduate student project)</li>
+<li>"Smart" automated plant identification from photos (Long term implementation. Possible graduate student project)</li>
 <li>“Hike” feature - a user creates a routed hike, using a map tool to string together a walking route between a series of interesting plants. A common use would be to note periodic plant stops along one of the Manoa valley trails. Other users can select a hiking route, and mark off plants as they reach them.</li>
+<li>Social features - chat, messaging, and adding friends.</li>
 </ul>
