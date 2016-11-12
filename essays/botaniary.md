@@ -16,7 +16,7 @@ Authors: Bill Mullen, Nathan Nahina, Matthew Schultz
 
 ### The problem
 
-There are a lot of plants out there on the University of Hawaii campus. However these plants are not always conveniently labeled. There is a significant lack of local plant identification apps out there and carrying around a plant field guide is not always convenient.
+There are a lot of plants out there on the University of Hawaii campus. However these plants are not always conveniently labelled. There is a significant lack of local plant identification apps out there and carrying around a plant field guide is not always convenient.
 <ul>
 <li>What if someone sees a plant but doesn’t have a field guide handy?</li>
 <li>And what about those plants that are on campus that people hear about, but have never quite been able to find?</li>
