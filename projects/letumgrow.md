@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/letumgrow-logo.png
-title: LetUmGrow Webpage
+title: LetUmGrow Web App
 permalink: projects/letumgrow
 date: 2016
 labels:
@@ -10,7 +10,7 @@ labels:
   - HTML/CSS
   - Meteor
   - Semantic UI
-summary: A javascript based art prompt generator.
+summary: A social network for plants.
 ---
 
 
