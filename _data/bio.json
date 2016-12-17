@@ -21,31 +21,27 @@
   },
   "interests": [
     {
-      "name": "cyber security",
+      "name": "software engineering",
       "keywords": [
-        "encryption",
-        "hardening"
+        "project management",
+        "web development",
+        "UI/UX",
+        "ethical design",
+        "ERP"
       ]
     },
     {
-      "name": "software development",
+      "name": "cyber security",
       "keywords": [
-        "enterprise resource planning"
+        "encryption",
+        "hardening",
+        "user friendly authentication"
       ]
     },
     {
       "name": "artificial intelligence",
       "keywords": [
         "autonomous vehicles"
-      ]
-    },
-    {
-      "name": "web development",
-      "keywords": [
-        "user account management",
-        "web design",
-        "user interfaces",
-        "user experience"
       ]
     },
     {
@@ -57,12 +53,12 @@
       ]
     },
     {
-      "name": "social justice",
+      "name": "social equality",
       "keywords": [
       ]
     },
     {
-      "name": "sustainability",
+      "name": "environmental sustainability",
       "keywords": [
       ]
     },
@@ -79,8 +75,8 @@
     {
       "name": "food",
       "keywords": [
-        "local",
-        "fresh produce",
+        "malnutrition",
+        "ethical production",
         "food deserts"
       ]
     }
