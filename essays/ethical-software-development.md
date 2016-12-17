@@ -10,6 +10,8 @@ labels:
   - Addiction
 ---
 
+<img class="ui centered image" src="../images/blue-brain.jpg">
+
 Games. Social media. Video streaming apps. 'Clickbait' news sites. I don't know about everyone else, but I have spent way too many hours on these kinds of services.
 
 In moderation, they can be informative, deeply social, and really fun! Games provide an immersive type of media unlike any other. Social media can connect us with loved ones all the way on the other side of the world. And good movies and shows can reveal deep truths about the human condition and information.
