@@ -10,7 +10,7 @@ labels:
   - HTML/CSS
   - Meteor
   - Semantic UI
-summary: An address book web app built in meteor.
+summary: An address book web app built in meteor for my ICS314 class.
 ---
 
 
