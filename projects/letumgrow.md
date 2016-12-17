@@ -22,6 +22,7 @@ summary: A social network connecting people with plants on the UH Manoa Campus.
 [Link to the LetUmGrow app informational page](https://letumgrow.github.io)
 
 This web app serves as a database of plant data linked with their locations on a map. Users can add new plants they find, edit profile pages of existing plants, and edit their personal profile pages. Also included is an information page on remedies that incorporate Hawaiian Medicine and local plants.
+
 View the Github repository [here](https://github.com/letumgrow/letumgrow).
 
-Future: Defining vision
+This app is still in development. If you would like more information or would like to contribute, you can contact me at [mschultz@hawaii.edu](mailto:mschultz@hawaii.edu)
