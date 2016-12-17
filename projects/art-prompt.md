@@ -16,5 +16,5 @@ summary: A javascript based art prompt generator.
 <img class="ui medium right floated rounded image" src="../images/art_prompt.png">
 
 This webpage uses javascript to randomly generate art prompts from a word list.
-View the code [here](https://github.com/matthew-schultz/artPrompt).
+View the Github repository [here](https://github.com/matthew-schultz/artPrompt).
 

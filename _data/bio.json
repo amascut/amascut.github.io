@@ -75,6 +75,14 @@
       "name": "plants",
       "keywords": [
       ]
+    },
+    {
+      "name": "food",
+      "keywords": [
+        "local",
+        "fresh produce",
+        "food deserts"
+      ]
     }
   ],
   "skills": [
@@ -143,7 +151,7 @@
       "website": "",
       "startDate": "2016-02",
       "endDate": "Present",
-      "summary": "Development and maintenance of Wordpress websites and database management"
+      "summary": "Development and maintenance of Wordpress websites, IT support, and database management"
     },
 	{
       "company": "Intellectual Services",

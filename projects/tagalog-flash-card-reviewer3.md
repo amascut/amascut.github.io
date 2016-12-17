@@ -21,7 +21,7 @@ This program has the text on the front and back of each flashcard stored in a .c
 side of that card. After executing string comparison, the program displays if the user input matched the text. If the user answers incorrectly, the flash card is kept in the active deck 
 of cards to be reviewed in that session, while correctly answered cards are longer be used in that session.
 
-View the code [here](https://github.com/matthew-schultz/FlashCardProgram).
+View the Github repository [here](https://github.com/matthew-schultz/FlashCardProgram).
 
 
 
