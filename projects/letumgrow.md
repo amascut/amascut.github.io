@@ -15,7 +15,7 @@ summary: A social network connecting people with plants on the UH Manoa Campus.
 ---
 
 
-<img class="ui medium right floated rounded image" src="../images/addplantpage2.PNG">
+<img class="ui centered image" src="../images/addplantpage2.PNG">
 
 [Link to the original app proposal](https://matthew-schultz.github.io/essays/botaniary.html)
 
