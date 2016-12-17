@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui centered rounded image" src="../images/blue-brain.jpg">
+<img class="ui centered rounded image" src="../images/green-sprout.jpg">
 
 The origin of the idea behind LetUmGrow began years ago on hikes that I would take with my dad. He usually brought photocopies of pages of the trail guidebook he owned. Occasionally, he would also bring his Hawaiian plant guide book. With both of these resources, he was often able to give lots of background information about the trail including information on the plants found on certain parts of the trails.
 
