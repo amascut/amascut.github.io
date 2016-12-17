@@ -17,7 +17,9 @@ summary: A social network connecting people with plants on the UH Manoa Campus.
 
 <img class="ui medium right floated rounded image" src="../images/letumgrow-logo.png">
 
-App idea proposal
+[App idea proposal](https://matthew-schultz.github.io/essays/botaniary.html)
+
+[App informational page](https://letumgrow.github.io)
 
 Collaboration with UH Building and Grounds
 
