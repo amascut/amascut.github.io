@@ -9,7 +9,7 @@ labels:
   - Javascript
   - HTML/CSS
   - Icon Design
-summary: A javascript based stopwatch created to test components of a "time bank" application to facilitate productivity by "storing" and "spending" time.
+summary: A javascript based stopwatch created to test components of a "time bank" application.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/stopwatch.png">

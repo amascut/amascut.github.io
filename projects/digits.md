@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/letumgrow-logo.png
+image: images/address-book.jpg
 title: Digits
 permalink: projects/digits
 date: 2016
