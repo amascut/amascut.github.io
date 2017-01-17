@@ -11,22 +11,23 @@ labels:
 
 <!-- <img class="ui centered image" src="../images/blue-brain.jpg"> -->
 
-M4 LetUmGrow Release Notes (01-16-17)
+## M4 LetUmGrow Release Notes (01-16-17)
 
-Current Features
-- Plant Map - displays plants on a google Map
+### Current Features
+<ul>
+<li>Plant Map - displays plants on a google Map
   users can add plants to the map by clicking on the map
-  users can move existing plants by clicking and dragging on plant icons
-- Hawaiian Remedies - plant remedies for conditions such as dry skin or irritable bowel syndrome
-- Tutorial - slide show explaining how the app works
-- Add Plants - has a form where users add new plants by entering information
+  users can move existing plants by clicking and dragging on plant icons</li>
+<li>Hawaiian Remedies - plant remedies for conditions such as dry skin or irritable bowel syndrome</li>
+<li>Tutorial - slide show explaining how the app works</li>
+<li>Add Plants - has a form where users add new plants by entering information
   - latitude and longitude are required
   - plant name, scientific name, and description are not required
-  - partially functional 'Use current location' button; will auto populate latitude and longitude when clicked if location sharing is enabled
-- Species Database
-- My Profile - displays the current user's username, email, first name, and last name
+  - partially functional 'Use current location' button; will auto populate latitude and longitude when clicked if location sharing is enabled</li>
+<li>Species Database</li>
+<li>My Profile - displays the current user's username, email, first name, and last name
   - Saved locations - lists any plants they have added
-  - Contacts - lists other users that the current user has added as contacts
+  - Contacts - lists other users that the current user has added as contacts</li>
   
 
 For the past several weeks I have not made significant progress adding functionality to LetUmGrow, mostly some minor css tweaks, fixing some conflicts in Github, and figuring out how to self deploy. Last semester, I had trouble explaining what my plans for LetUmGrow were, so instead of rushing headfirst into programming, I wanted to clarify the goals I had for this app. So I decided to write out more of what I wanted to do and fit those goals into a timeline. In the interim between the previous and current semesters, I also wanted to do more research on similar apps. I found a plant identification app called Pl@ntNet which is used to identify plants by images taken by users. I would like to try contacting them in the future to see if future collaboration would be possible. However they are based in France so that could interfere with the communication process.
