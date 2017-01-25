@@ -45,12 +45,7 @@
       ]
     },
     {
-      "name": "cardiovascular exercise",
-      "keywords": [
-        "running",
-        "bicycling",
-        "swimming"
-      ]
+      "name": "health",
     },
     {
       "name": "social equality",
@@ -58,7 +53,7 @@
       ]
     },
     {
-      "name": "environmental sustainability",
+      "name": "nature conservation",
       "keywords": [
       ]
     },
@@ -67,19 +62,6 @@
       "keywords": [
       ]
     },
-    {
-      "name": "plants",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "food",
-      "keywords": [
-        "malnutrition",
-        "ethical production",
-        "food deserts"
-      ]
-    }
   ],
   "skills": [
     {
