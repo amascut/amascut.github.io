@@ -14,13 +14,13 @@ labels:
 ## M5 LetUmGrow Release Notes (02-01-17)
 
 ### Tasks Completed
-Redeployed to meteor galaxy
+Redeployed to meteor galaxy at <a href="https://letumgrow.meteorapp.com">letumgrow.meteorapp.com</a>
 
 Prepared for reset of database by backing up Users and Plants to json files
 
 Researched Admin page and user roles
 
-### Tasks To do
+### Tasks To do (see <a href="https://github.com/LetUmGrow/LetUmGrow/projects/7">M6 Project Page</a>)
 Implement Admin page and user roles
 
 Research and Implement Mobile First Usability
