@@ -20,7 +20,7 @@ Prepared for reset of database by backing up Users and Plants to json files
 
 Researched Admin page and user roles
 
-### Tasks To do (see <a href="https://github.com/LetUmGrow/LetUmGrow/projects/7">M6 Project Page</a>)
+### Tasks To Do (see <a href="https://github.com/LetUmGrow/LetUmGrow/projects/7">M6 Project Page</a>)
 Implement Admin page and user roles
 
 Research and Implement Mobile First Usability
