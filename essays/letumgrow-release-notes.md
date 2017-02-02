@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: LetUmGrow Release Notes
-date: 2017-01-16
+date: 2017-02-01
 labels:
   - Project Management
   - Software Engineering
@@ -10,6 +10,22 @@ labels:
 ---
 
 <!-- <img class="ui centered image" src="../images/blue-brain.jpg"> -->
+
+## M5 LetUmGrow Release Notes (02-01-17)
+
+### Tasks Completed
+Redeployed to meteor galaxy
+
+Prepared for reset of database by backing up Users and Plants to json files
+
+Researched Admin page and user roles
+
+### Tasks To do
+Implement Admin page and user roles
+
+Research and Implement Mobile First Usability
+-Landing Page
+
 
 ## M4 LetUmGrow Release Notes (01-16-17)
 
