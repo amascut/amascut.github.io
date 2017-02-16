@@ -21,7 +21,7 @@ Made progress creating pages for the Admin functionality
 ### Tasks To Do (see <a href="https://github.com/LetUmGrow/LetUmGrow/projects/8">M7 Project Page</a>)
 Finish implementing Admin functionality
 
-###
+### Notes
 Trying to work on LetUmGrow alone has been a challenging process. I have the freedom to pursue my personal vision for the app, however that vision of mine is still hazy. Also, I think I tend to get some of my productive energy from a team. Sometimes, it is a struggle just to tear myself away from the small distractions!<br />
 
 
