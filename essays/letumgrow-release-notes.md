@@ -21,6 +21,32 @@ Made progress creating pages for the Admin functionality
 ### Tasks To Do (see <a href="https://github.com/LetUmGrow/LetUmGrow/projects/8">M7 Project Page</a>)
 Finish implementing Admin functionality
 
+###
+Trying to work on LetUmGrow alone has been a challenging process. I have the freedom to pursue my personal vision for the app, however that vision of mine is still hazy. Also, I think I tend to get some of my productive energy from a team. Sometimes, it is a struggle just to tear myself away from the small distractions!<br />
+
+
+I'm trying to relearn the helper, event, and onCreated functions of Meteor templates. At times, I would like to ask for help, but I still wonder if I have done the necessary work and due diligence to even ask a 'smart' question.<br />
+
+
+I may pursue finding a way to create and use test users. Requiring that a user have a UH account to log in seems to provide quite an obstacle to would-be trolls and developers alike.
+
+
+I have been following the Meteor Chef admin console tutorial, but I have had to adapt it to LetUmGrow in many ways. The meteor chef folder structure is quite different as is their naming conventions for templates.
+
+
+Going over the tuturial has also led me to the FlowRouter and alanning:roles package documentation. Basically, my current goal is to have access to certain groups of meteor routes tied to certain user roles. But the meteor chef admin tutorial has a little bit more functionality than that, which makes it harder for me to tease out the most relevant sections. For example, their tutorial also has an invitation section that requires creating an Invitations MongoDB collection. I opted not to add that part.
+
+
+Also, it has proven difficult to follow the structure of their tutorial from the top of the page to the bottom, since handlebars code in the html files may come before the associated backend function code in the js files. Often, that causes the meteor build to fail and leaves me wondering if I did something wrong or if I just didn't implement the associated functions yet.
+
+
+I'm having trouble figuring out the alanning:roles package from its documentation, too. At first I was confused if it was its own collection. However it seems to be an addition to Meteor.users and seems to be included if 'import {Meteor};' is written at the top. 
+
+
+I haven't been able to consistently add a role to my user account. Often I will get an insert failed error. I'm not sure if that is because I am trying to add a role that has already been added or if I just am not using the roles package properly.
+
+
+If I can figure out how to use the alanning:roles package properly along with the FlowRouter routing that should make creating new admins and admin only pages quite easy.
 
 
 ## M5 LetUmGrow Release Notes (02-01-17)
