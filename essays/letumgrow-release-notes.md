@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: LetUmGrow Release Notes
-date: 2017-02-01
+date: 2017-02-15
 labels:
   - Project Management
   - Software Engineering
@@ -10,6 +10,18 @@ labels:
 ---
 
 <!-- <img class="ui centered image" src="../images/blue-brain.jpg"> -->
+
+
+## M6 LetUmGrow Release Notes (02-15-17)
+
+### Tasks Completed
+Added pre-database wipe backup data .json files to LetUmGrow /backups directory
+Made progress creating pages for the Admin functionality
+
+### Tasks To Do (see <a href="https://github.com/LetUmGrow/LetUmGrow/projects/8">M7 Project Page</a>)
+Finish implementing Admin functionality
+
+
 
 ## M5 LetUmGrow Release Notes (02-01-17)
 
