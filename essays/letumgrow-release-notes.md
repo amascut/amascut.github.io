@@ -22,31 +22,28 @@ Made progress creating pages for the Admin functionality
 Finish implementing Admin functionality
 
 ### Notes
-Trying to work on LetUmGrow alone has been a challenging process. I have the freedom to pursue my personal vision for the app, however that vision of mine is still hazy. Also, I think I tend to get some of my productive energy from a team. Sometimes, it is a struggle just to tear myself away from the small distractions!<br />
+Working on LetUmGrow mostly solo this semester has been a challenging process. I have the freedom to pursue my personal vision for the app, however that vision of mine is still hazy. Also, I think I tend to get some of my productive energy from a team; it helps that my teammates from last semester still talk in the LetUmGrow slack, so I can keep them posted on updates and get encouragement from them.
 
 
-I'm trying to relearn the helper, event, and onCreated functions of Meteor templates. At times, I would like to ask for help, but I still wonder if I have done the necessary work and due diligence to even ask a 'smart' question.<br />
+Earlier in February, I was able to get some feedback from my instructor, Philip Johnson, which helped me decide on what to focus on first. In January, I tried to concurrently work on optimize my app for mobile and implementing the admin functionality but was able to achieve neither of those objectives. Following Dr. Johnson's arrangement of tasks, I decided to focus on getting the admin functionality working first. So my goal for the last milestone was to tie access to specific groups of meteor routes tied to specific user roles.
 
 
-I may pursue finding a way to create and use test users. Requiring that a user have a UH account to log in seems to provide quite an obstacle to would-be trolls and developers alike.
+I decided to follow the <a href="https://themeteorchef.com/tutorials/building-a-user-admin">Meteor Chef admin console tutorial</a>, but I had to adapt it to LetUmGrow in many ways. The Meteor Chef folder structure, naming conventions, and base meteor app code were all a little bit different from what I had been used to working with. For example when creating new routes in /startup/client/router.js the tutorial used 'BlazeLayout.render( 'default', { yield: 'managers' } );'. I changed that to 'BlazeLayout.render( 'App_Body', { main: 'Managers_Page' } );' to get the managers page to display.
 
 
-I have been following the Meteor Chef admin console tutorial, but I have had to adapt it to LetUmGrow in many ways. The meteor chef folder structure is quite different as is their naming conventions for templates.
+The admin tutorial also led me to the FlowRouter, Blaze.js, and alanning:roles package documentation.  But the meteor chef admin tutorial implemented a little bit more functionality than that, which made it harder for me to tease out the most relevant sections. Their tutorial had an email invitation section that requires creating an Invitations MongoDB collection. I opted not to add that part.
 
 
-Going over the tuturial has also led me to the FlowRouter and alanning:roles package documentation. Basically, my current goal is to have access to certain groups of meteor routes tied to certain user roles. But the meteor chef admin tutorial has a little bit more functionality than that, which makes it harder for me to tease out the most relevant sections. For example, their tutorial also has an invitation section that requires creating an Invitations MongoDB collection. I opted not to add that part.
+It sometimes proved difficult to follow the structure of their tutorial from top to bottom, since Spacebars code in the html files sometimes came before the associated backend function code in the .js files. Often, that caused the meteor build to fail and left me wondering if I did something wrong or if I just didn't implement the associated functions yet.
 
 
-Also, it has proven difficult to follow the structure of their tutorial from the top of the page to the bottom, since handlebars code in the html files may come before the associated backend function code in the js files. Often, that causes the meteor build to fail and leaves me wondering if I did something wrong or if I just didn't implement the associated functions yet.
+I had some issues figuring out how the alanning:roles package worked from its documentation, too. At first I wasn't sure if the roles were implemented as their own collection and needed to be imported on their own. However, I eventually learned that roles were implemented as an addition to Meteor.users and were included using the 'import {Meteor};' statement. 
 
 
-I'm having trouble figuring out the alanning:roles package from its documentation, too. At first I was confused if it was its own collection. However it seems to be an addition to Meteor.users and seems to be included if 'import {Meteor};' is written at the top. 
+At first when trying out the roles methods I was not able to consistently add a role to my user account. Often, I would get an insert failed error. It turned out that the methods associated with the roles package worked best when executed from the server in 'app/both/methods/update/' instead of from .js template files in 'app/imports/ui/pages/. I will have to conduct further research into Meteor best practices for security, to make sure that access to the database is secure to prevent unauthorized access to the database by the client.
 
 
-I haven't been able to consistently add a role to my user account. Often I will get an insert failed error. I'm not sure if that is because I am trying to add a role that has already been added or if I just am not using the roles package properly.
-
-
-If I can figure out how to use the alanning:roles package properly along with the FlowRouter routing that should make creating new admins and admin only pages quite easy.
+Over the next couple of weeks, I will try to associate the user roles that I've implemented with specific groups of pages. (e.g. having the admin pages accessible by admins only) So far, I have 3 types of roles in mind: a general user role, a staff role (for use by UH Manoa staff), and an admin role (for developers).
 
 
 ## M5 LetUmGrow Release Notes (02-01-17)
